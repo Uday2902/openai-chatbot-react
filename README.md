@@ -1,14 +1,14 @@
-### Chatbot using Openai API & React
+# Chatbot using Openai API & React
 
 In this project I made simple Chatbot using ChatGPT API service and React. It takes prompt from user and give response provided by API. This project is very good for getting started with fetch API and Openai API
 
-### Installing React on Windows, macOS, and Linux
+## Installing React on Windows, macOS, and Linux
 This guide will walk you through the steps to install React on Windows, macOS, and Linux.
 
-## Prerequisites
+### Prerequisites
 Before you begin, make sure that you have the following installed:
 
-# Node.js
+## Node.js
 npm (Node.js package manager)
 You can download Node.js and npm from the official website: https://nodejs.org
 
@@ -54,7 +54,7 @@ Congratulations! You have successfully installed React on your Windows, macOS, o
 
 This guide will walk you through how to get started with the OpenAI API.
 
-## Step 1: Sign up for OpenAI API
+## Sign up for OpenAI API
 
 To use the OpenAI API, you need to sign up for an API key. You can do this by visiting the OpenAI website and following the instructions there.
 - Go to View API Keys
