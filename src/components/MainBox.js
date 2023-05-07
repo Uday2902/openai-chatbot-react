@@ -56,7 +56,7 @@ function MainBox(){
             ]
         }
 
-        await fetch("https://chatgpt-api.shn.hk/v1/",{
+        await fetch("https://api.openai.com/v1/chat/completions",{
             method: "POST",
             headers: {
                 "Authorization": `Bearer ${API_KEY}`,
