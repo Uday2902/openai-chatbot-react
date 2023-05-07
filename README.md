@@ -56,6 +56,6 @@ This guide will walk you through how to get started with the OpenAI API.
 
 ## Sign up for OpenAI API
 
-To use the OpenAI API, you need to sign up for an API key. You can do this by visiting the OpenAI website and following the instructions there.
+To use the OpenAI API, you need to sign up for an API key. You can do this by visiting the <a href="https://platform.openai.com/account/api-keys">OpenAI API</a> website and following the instructions there.
 - Go to View API Keys
 - Create new secret with with any name (make sure you save your API key for future referances)
