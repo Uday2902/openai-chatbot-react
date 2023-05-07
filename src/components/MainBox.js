@@ -30,8 +30,7 @@ function MainBox(){
     }
 
     async function processMessageToChatGPT(chatMessages){
-        const API_KEY = "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";
-
+        const API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         let apiMessages = chatMessages.map((messageObject)=>{
             let role="";
             if(messageObject.sender === "ChatGPT"){
